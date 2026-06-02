@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Note20 Ultra KernelSU Next
+kernel.string=Note20 KernelSU Next
 do.devicecheck=0
 do.modules=0
 do.systemless=1
